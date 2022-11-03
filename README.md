@@ -5,6 +5,13 @@
 
 ## Land Registration using Blockchain
 
+## Team Members:
+
+1. Anand Sah [saham@rknec.edu]
+2. Ankush Ramne [ramnec@rknec.edu]
+3. Ariesh Sheikh [sheikhan@rknec.edu]
+4. Rahul Lonare [lonarera@rknec.edu]
+
 ## Problem it Solves:
 
 1. The elimination of middlemen: The elimination of middlemen or brokers makes the process of land registration less expensive. Brokers who try to defraud uninformed people will be unable to do so any longer. Brokers frequently take a long time to finish procedures, thus our project will help people save time.
