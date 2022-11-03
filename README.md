@@ -1,4 +1,4 @@
-# Blockchain bases land Registration system
+# Blockchain based land Registry system
 
 <img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
