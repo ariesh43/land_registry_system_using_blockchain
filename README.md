@@ -1,4 +1,4 @@
-# Blockchain-Based-Property-Registration
+# Blockchain bases land Registration system
 
 <img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -19,21 +19,6 @@
 3. IPFS
 4. Flutter
 5. Metamask
-
-<!-- ## Demo -->
-<!-- Our Dapp is demonstrated in this video [here](https://youtu.be/0Coz_ivOaHs) -->
-
-<!-- ## Run Application on deployed website -->
-<!-- Check out the deployed website [here](https://landregistry.live/) -->
-
-<!-- https://landregistry.live/ -->
-
-<!-- This is for demonstration purposes only. With this key, you can log in as Land Inspector:
- <pre><b>6b86cddfedbec68ed2a1c7e14b993840a0848595ba5787aec9e8a38b18f0d96a</b></pre>
-For user: <pre><b>3ed4aff1a8ff8e28df3cd307112f9166886edcc85a27136908e3b1687b111f89</b></pre>\
-You can also use your own Ethereum wallet key as a user. -->
-
-<!-- #### Check Smart contract At Ropsten Ethereum Testnet: [here](https://ropsten.etherscan.io/address/0x702058ba021cd4e4f847b40f32b58aa5be3a4661) -->
 
 ## To Run Application Locally
 
@@ -75,7 +60,7 @@ truffle migrate
    > total cost:          0.07992454 ETH
 </pre>
 
-7. In `constant.dart` file, change the value of the variable `chainId` to `'1337'` and change the value of the variable `rpcUrl` to `"http://127.0.0.1:7545"`
+7. In `constant.dart` file, change the value of the variable `chainId` to `'5777'` or ganache networkId and change the value of the variable `rpcUrl` to `"http://127.0.0.1:7545"`
 8. Run the flutter web app
 
 ```
@@ -88,24 +73,23 @@ flutter run -d web-server --web-port 5555
 10. Create mapbox api key from https://www.mapbox.com/ and Replace it with `mapBoxApiKey`in `constant.dart` file
 11. Create nftstorage api key from https://nft.storage/ and replace it.
 
-<!-- ## Project Flowchart -->
+## Project Flowchart
 
-<!-- <img src="screenshots/flowchart.png" height="450"> -->
+<img src="screenshots/flowchart.png" height="450">
 
 ## Screenshots
 
-<!-- Home Page                   |                   Wallet connect/Login
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot1.png" height="225">  |<img src="screenshots/Screenshot7.png" height="225">
+|                      Home Page                       |                 Wallet connect/Login                 |
+| :--------------------------------------------------: | :--------------------------------------------------: |
+| <img src="screenshots/Screenshot1.png" height="225"> | <img src="screenshots/Screenshot7.png" height="225"> |
 
-Contract Owner Dashboard               |                   User Registration
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot10.png" height="225">  |<img src="screenshots/Screenshot12.png" height="225">
+|               Contract Owner Dashboard                |                   User Registration                   |
+| :---------------------------------------------------: | :---------------------------------------------------: |
+| <img src="screenshots/Screenshot10.png" height="225"> | <img src="screenshots/Screenshot12.png" height="225"> |
 
-Land Inspector Dashboard                   |                  User Verification
-:---------------------------------:        |      :------------------------------:
-<img src="screenshots/Screenshot11.png" height="225">     |<img src="screenshots/Screenshot5.png" height="225">
-
+|               Land Inspector Dashboard                |                  User Verification                   |
+| :---------------------------------------------------: | :--------------------------------------------------: |
+| <img src="screenshots/Screenshot11.png" height="225"> | <img src="screenshots/Screenshot5.png" height="225"> |
 
 <!-- Received Request           |                   Make Payment   -->
 <!-- :---------------------------------:        |      :------------------------------: -->
